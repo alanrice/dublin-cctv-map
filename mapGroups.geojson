@@ -2,7 +2,11 @@
   "type": "FeatureCollection",
   "features": [{
     "type": "Feature",
-    "properties": {},
+    "properties": {
+      "name": "Dublin City Council Traffic Cameras - O'Connell Bridge",
+      "address": "O'Connell Bridge",
+      "ownership": "government"
+    },
     "geometry": {
       "type": "GeometryCollection",
       "geometries": [{
