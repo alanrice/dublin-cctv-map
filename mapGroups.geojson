@@ -4,8 +4,9 @@
     "type": "Feature",
     "properties": {
       "name": "Dublin City Council Traffic Cameras - O'Connell Bridge",
-      "address": "O'Connell Bridge",
-      "ownership": "government"
+      "address": "O'Connell Bridge, Dublin",
+      "ownership": "government",
+      "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg"
     },
     "geometry": {
       "type": "GeometryCollection",
