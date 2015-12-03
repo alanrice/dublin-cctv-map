@@ -11,11 +11,15 @@
       "type": "GeometryCollection",
       "geometries": [{
         "type": "Point",
+        "marker-size": "small",
+        "marker-symbol": "bar",
         "coordinates": [-6.258999109268188,
           53.34707848312472
         ]
       }, {
         "type": "Polygon",
+        "stroke-opacity": 0.2,
+        "fill-opacity": 0.1,
         "coordinates": [
           [
             [-6.258996427059174,
