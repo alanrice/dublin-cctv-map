@@ -39,5 +39,83 @@
         ]
       }]
     }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Dublin County Council Traffic Cameras - Ballycullen/St.Colmcilles",
+      "address": "Ballycullen Rd, Dublin",
+      "ownership": "government",
+      "url": "http://traffic.southdublin.ie/TrafficCamImages/Ballycullen_sc/snap.jpg",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.3,
+      "fill-opacity": 0.2
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-6.330855,
+          53.276715
+        ]
+      }, {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.330855,
+              53.276715
+            ],
+            [-6.32900,
+              53.27710
+            ],
+            [-6.32900,
+              53.27640
+            ],
+            [-6.330855,
+              53.276715
+            ]
+          ]
+        ]
+      }]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "South Dublin County Council Traffic Cameras - Belgard Rd/Cookstown",
+      "address": "Belgard Rd, Dublin",
+      "ownership": "government",
+      "url": "http://traffic.southdublin.ie/TrafficCamImages/BelgardCook/snap.jpg",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.3,
+      "fill-opacity": 0.2
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-6.377580,
+          53.302899
+        ]
+      }, {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.377580,
+              53.302899
+            ],
+            [-6.37635,
+              53.3027
+            ],
+            [-6.37665,
+              53.30220
+            ],
+            [-6.377580,
+              53.302899
+            ]
+          ]
+        ]
+      }]
+    }
   }]
 }
