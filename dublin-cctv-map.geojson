@@ -195,5 +195,44 @@
         ]
       }]
     }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Dublin City Council Traffic Cameras - N11 / Clonkeen Rd",
+      "address": "N11, Dublin",
+      "ownership": "government",
+      "url": "http://www.dublincity.ie/dublintraffic/site16Camera106.jpg",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.3,
+      "fill-opacity": 0.2
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-6.158330,
+          53.266214
+        ]
+      }, {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.158330,
+              53.266214
+            ],
+            [-6.160100,
+              53.268554
+            ],
+            [-6.163100,
+              53.2677754
+            ],
+            [-6.158330,
+              53.266214
+            ]
+          ]
+        ]
+      }]
+    }
   }]
 }
