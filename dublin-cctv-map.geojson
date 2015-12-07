@@ -234,5 +234,34 @@
         ]
       }]
     }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Eason's Nassau St",
+      "address": "24-25 Nassau St, Dublin 2",
+      "ownership": "private",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.5
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-6.256478,
+          53.342520
+        ]
+      }, {
+        "type": "LineString",
+        "coordinates": [
+          [-6.256478,
+            53.342520
+          ],
+          [-6.256769,
+            53.342581
+          ]
+        ]
+      }]
+    }
   }]
 }
