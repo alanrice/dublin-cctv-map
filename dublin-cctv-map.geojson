@@ -263,5 +263,50 @@
         ]
       }]
     }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "KBC Bank",
+      "address": "17 Dame St, Dublin 2",
+      "ownership": "private",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.5
+    },
+    "geometry": {
+      "type": "GeometryCollection",
+      "geometries": [{
+        "type": "Point",
+        "coordinates": [-6.262035,
+          53.344156
+        ]
+      }, {
+        "type": "LineString",
+        "coordinates": [
+          [-6.262035,
+            53.344156
+          ],
+          [-6.261982,
+            53.344161
+          ]
+        ]
+      }]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Ulster Bank",
+      "address": "Church Ln, Dublin 2",
+      "ownership": "private",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.260863,
+        53.344107
+      ]
+    }
   }]
 }
