@@ -308,5 +308,20 @@
         53.344107
       ]
     }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "name": "Cow's Ln / Lord Edward St",
+      "address": "Cow's Ln, Dublin 2",
+      "marker-size": "small",
+      "marker-symbol": "marker",
+      "stroke-opacity": 0.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.268722,
+        53.343889
+      ]
+    }
   }]
 }
