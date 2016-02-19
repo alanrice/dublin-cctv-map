@@ -1,327 +1,196 @@
 {
   "type": "FeatureCollection",
-  "features": [{
-    "type": "Feature",
-    "properties": {
-      "name": "Dublin City Council Traffic Cameras - O'Connell Bridge",
-      "address": "O'Connell Bridge, Dublin",
-      "ownership": "government",
-      "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
-    },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin City Council Traffic Cameras - O'Connell Bridge",
+        "address": "O'Connell Bridge, Dublin",
+        "ownership": "government",
+        "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.258999109268188,
+        "coordinates": [
+          -6.258999109268188,
           53.34707848312472
         ]
-      }, {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.258996427059174,
-              53.347091292626615
-            ],
-            [-6.2589,
-              53.34772535816117
-            ],
-            [-6.2598,
-              53.34754
-            ],
-            [-6.258996427059174,
-              53.347091292626615
-            ]
-          ]
-        ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "South Dublin County Council Traffic Cameras - Ballycullen/St.Colmcilles",
-      "address": "Ballycullen Rd, Dublin",
-      "ownership": "government",
-      "url": "http://traffic.southdublin.ie/TrafficCamImages/Ballycullen_sc/snap.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Dublin County Council Traffic Cameras - Ballycullen/St.Colmcilles",
+        "address": "Ballycullen Rd, Dublin",
+        "ownership": "government",
+        "url": "http://traffic.southdublin.ie/TrafficCamImages/Ballycullen_sc/snap.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.330855,
+        "coordinates": [
+          -6.330855,
           53.276715
         ]
-      }, {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.330855,
-              53.276715
-            ],
-            [-6.32900,
-              53.27710
-            ],
-            [-6.32900,
-              53.27640
-            ],
-            [-6.330855,
-              53.276715
-            ]
-          ]
-        ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "South Dublin County Council Traffic Cameras - Belgard Rd/Cookstown",
-      "address": "Belgard Rd, Dublin",
-      "ownership": "government",
-      "url": "http://traffic.southdublin.ie/TrafficCamImages/BelgardCook/snap.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Dublin County Council Traffic Cameras - Belgard Rd/Cookstown",
+        "address": "Belgard Rd, Dublin",
+        "ownership": "government",
+        "url": "http://traffic.southdublin.ie/TrafficCamImages/BelgardCook/snap.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.377580,
+        "coordinates": [
+          -6.37758,
           53.302899
         ]
-      }, {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.377580,
-              53.302899
-            ],
-            [-6.37635,
-              53.3027
-            ],
-            [-6.37665,
-              53.30220
-            ],
-            [-6.377580,
-              53.302899
-            ]
-          ]
-        ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Dublin City Council Traffic Cameras - Samuel Beckett Bridge",
-      "address": "30 N Wall Quay, Dublin",
-      "ownership": "government",
-      "url": "http://www.dublincity.ie/dublintraffic/site16Camera136.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin City Council Traffic Cameras - Samuel Beckett Bridge",
+        "address": "30 N Wall Quay, Dublin",
+        "ownership": "government",
+        "url": "http://www.dublincity.ie/dublintraffic/site16Camera136.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.241365,
-          53.347650
-        ]
-      }, {
-        "type": "Polygon",
         "coordinates": [
-          [
-            [-6.241365,
-              53.347650
-            ],
-            [-6.2400,
-              53.347650
-            ],
-            [-6.2403,
-              53.346950
-            ],
-            [-6.241365,
-              53.347650
-            ]
-          ]
+          -6.241365,
+          53.34765
         ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Dublin City Council Traffic Cameras - M50 / Coolock Lane / Port Tunnel",
-      "address": "Ashtown, Dublin",
-      "ownership": "government",
-      "url": "http://www.dublincity.ie/dublintraffic/site16Camera95.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin City Council Traffic Cameras - M50 / Coolock Lane / Port Tunnel",
+        "address": "Ashtown, Dublin",
+        "ownership": "government",
+        "url": "http://www.dublincity.ie/dublintraffic/site16Camera95.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.239373,
+        "coordinates": [
+          -6.239373,
           53.397335
         ]
-      }, {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.239373,
-              53.397335
-            ],
-            [-6.2383,
-              53.3965
-            ],
-            [-6.240,
-              53.3961
-            ],
-            [-6.239373,
-              53.397335
-            ]
-          ]
-        ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Dublin City Council Traffic Cameras - N11 / Clonkeen Rd",
-      "address": "N11, Dublin",
-      "ownership": "government",
-      "url": "http://www.dublincity.ie/dublintraffic/site16Camera106.jpg",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.3,
-      "fill-opacity": 0.2
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin City Council Traffic Cameras - N11 / Clonkeen Rd",
+        "address": "N11, Dublin",
+        "ownership": "government",
+        "url": "http://www.dublincity.ie/dublintraffic/site16Camera106.jpg",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.3,
+        "fill-opacity": 0.2
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.158330,
+        "coordinates": [
+          -6.15833,
           53.266214
         ]
-      }, {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.158330,
-              53.266214
-            ],
-            [-6.160100,
-              53.268554
-            ],
-            [-6.163100,
-              53.2677754
-            ],
-            [-6.158330,
-              53.266214
-            ]
-          ]
-        ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Eason's Nassau St",
-      "address": "24-25 Nassau St, Dublin 2",
-      "ownership": "private",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.5
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eason's Nassau St",
+        "address": "24-25 Nassau St, Dublin 2",
+        "ownership": "private",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.5
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.256478,
-          53.342520
-        ]
-      }, {
-        "type": "LineString",
         "coordinates": [
-          [-6.256478,
-            53.342520
-          ],
-          [-6.256769,
-            53.342581
-          ]
+          -6.256478,
+          53.34252
         ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "KBC Bank",
-      "address": "17 Dame St, Dublin 2",
-      "ownership": "private",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.5
+      }
     },
-    "geometry": {
-      "type": "GeometryCollection",
-      "geometries": [{
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KBC Bank",
+        "address": "17 Dame St, Dublin 2",
+        "ownership": "private",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.5
+      },
+      "geometry": {
         "type": "Point",
-        "coordinates": [-6.262035,
+        "coordinates": [
+          -6.262035,
           53.344156
         ]
-      }, {
-        "type": "LineString",
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulster Bank",
+        "address": "Church Ln, Dublin 2",
+        "ownership": "private",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Point",
         "coordinates": [
-          [-6.262035,
-            53.344156
-          ],
-          [-6.261982,
-            53.344161
-          ]
+          -6.260863,
+          53.344107
         ]
-      }]
-    }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Ulster Bank",
-      "address": "Church Ln, Dublin 2",
-      "ownership": "private",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.5
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-6.260863,
-        53.344107
-      ]
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cow's Ln / Lord Edward St",
+        "address": "Cow's Ln, Dublin 2",
+        "marker-size": "small",
+        "marker-symbol": "marker",
+        "stroke-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.268722,
+          53.343889
+        ]
+      }
     }
-  }, {
-    "type": "Feature",
-    "properties": {
-      "name": "Cow's Ln / Lord Edward St",
-      "address": "Cow's Ln, Dublin 2",
-      "marker-size": "small",
-      "marker-symbol": "marker",
-      "stroke-opacity": 0.5
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-6.268722,
-        53.343889
-      ]
-    }
-  }]
+  ]
 }
