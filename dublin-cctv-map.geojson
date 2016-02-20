@@ -8,10 +8,7 @@
         "address": "O'Connell Bridge, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera6.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -28,10 +25,7 @@
         "address": "Ballycullen Rd, Dublin",
         "ownership": "government",
         "url": "http://traffic.southdublin.ie/TrafficCamImages/Ballycullen_sc/snap.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -48,10 +42,7 @@
         "address": "Belgard Rd, Dublin",
         "ownership": "government",
         "url": "http://traffic.southdublin.ie/TrafficCamImages/BelgardCook/snap.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -68,10 +59,7 @@
         "address": "30 N Wall Quay, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera136.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -88,10 +76,7 @@
         "address": "Ashtown, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera95.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -108,10 +93,7 @@
         "address": "N11, Dublin",
         "ownership": "government",
         "url": "http://www.dublincity.ie/dublintraffic/site16Camera106.jpg",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.3,
-        "fill-opacity": 0.2
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -127,9 +109,7 @@
         "name": "Eason's Nassau St",
         "address": "24-25 Nassau St, Dublin 2",
         "ownership": "private",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.5
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -145,9 +125,7 @@
         "name": "KBC Bank",
         "address": "17 Dame St, Dublin 2",
         "ownership": "private",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.5
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -163,9 +141,7 @@
         "name": "Ulster Bank",
         "address": "Church Ln, Dublin 2",
         "ownership": "private",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.5
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -180,9 +156,7 @@
       "properties": {
         "name": "Cow's Ln / Lord Edward St",
         "address": "Cow's Ln, Dublin 2",
-        "marker-size": "small",
-        "marker-symbol": "marker",
-        "stroke-opacity": 0.5
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
