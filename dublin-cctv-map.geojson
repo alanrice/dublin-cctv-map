@@ -166,6 +166,70 @@
           53.343889
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorset St / Frederick St",
+        "address": "Dorset St, Dublin 1",
+        "ownership": "government",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265270113945007,
+          53.35603778951325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Connell St Upper / Parnell St",
+        "address": "O'Connell St Upper, Dublin 1",
+        "ownership": "government",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.261622309684753,
+          53.352558997285946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardiner St / Summerhill",
+        "address": "Gardiner St, Dublin 1",
+        "ownership": "government",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.256842613220215,
+          53.35419997239386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawson St / Stephens Green",
+        "address": "Dawson St, Dublin 1",
+        "ownership": "government",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.258763074874878,
+          53.33949778536761
+        ]
+      }
     }
   ]
 }
