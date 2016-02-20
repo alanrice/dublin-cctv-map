@@ -156,6 +156,7 @@
       "properties": {
         "name": "Cow's Ln / Lord Edward St",
         "address": "Cow's Ln, Dublin 2",
+        "ownership": "government",
         "marker-size": "small"
       },
       "geometry": {
